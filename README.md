@@ -1,6 +1,6 @@
-# flutter_movies_app
+# Flutter Movies App
 
-My first app to show movies
+This is the first project built using Flutter.
 
 ## Getting Started
 
